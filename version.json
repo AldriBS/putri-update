@@ -1,0 +1,10 @@
+{
+  "version": "3.3.0",
+  "notes": "MELDAS dog-overrun; web-off saat manual; anti-timeout fallback; ikon; tab Riwayat User",
+  "type": "code",
+  "url": "putri_update.zip",
+  "sha256": "74a1841a34032e4d3574e9954666eedeb1f72944344bbeb9b45ca8d29d670fcf",
+  "sig": "17ef408368485a516a86d4a81aa61b9bcad1a6bc6d13ac5605268c8f13e428a0",
+  "min_version": "3.2.0",
+  "built_at": "2026-06-19T00:50:44"
+}
