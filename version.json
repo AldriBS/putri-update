@@ -1,10 +1,10 @@
 {
-  "version": "3.3.0",
-  "notes": "MELDAS dog-overrun; web-off saat manual; anti-timeout; ikon; tab Riwayat User; updater tahan-hmac & config tahan-BOM",
+  "version": "3.3.2",
+  "notes": "Label versi launcher ikut config; URL Lokal pakai IP LAN (akses dari laptop sejaringan); fix base.py _log; tombol Download model (UTF-8); Riwayat User tabel+filter",
   "type": "code",
   "url": "putri_update.zip",
-  "sha256": "66ce6a3e664d6ed7529252ef405329c783b60a64af08713b9098a28893c8bdbc",
-  "sig": "1ed232989e5ae316f911ee6a6352787a2e2cb25c19d3939320192b4e79f5ca9f",
+  "sha256": "9a604d6ab9cb875dcf6530b4fc5fc700320286114d5bcfe5d5ce0a2ec4f9edce",
+  "sig": "0c7abdd05740b06e9c020528086fb7ba9eeb9092e42acc58e82569526e8425bf",
   "min_version": "3.2.0",
-  "built_at": "2026-06-19T01:41:57"
+  "built_at": "2026-06-22T00:58:47"
 }
