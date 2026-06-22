@@ -1,10 +1,10 @@
 {
-  "version": "3.3.2",
-  "notes": "Label versi launcher ikut config; URL Lokal pakai IP LAN (akses dari laptop sejaringan); fix base.py _log; tombol Download model (UTF-8); Riwayat User tabel+filter",
+  "version": "3.3.4",
+  "notes": "Governor ADAPTIF: auto mode-hemat (model ringan+jawaban pendek) HANYA saat terdeteksi lambat/timeout; PC kuat model besar tak terpengaruh; config induk balik kualitas penuh",
   "type": "code",
   "url": "putri_update.zip",
-  "sha256": "9a604d6ab9cb875dcf6530b4fc5fc700320286114d5bcfe5d5ce0a2ec4f9edce",
-  "sig": "0c7abdd05740b06e9c020528086fb7ba9eeb9092e42acc58e82569526e8425bf",
+  "sha256": "f16453af5c8645027cc28921468ba6f7db7f9db22d9faf00f924d7004db74868",
+  "sig": "0d59fc129c95dc7609d019a9770a1523688e431a0adcb2e8a64ec9b8e8f03702",
   "min_version": "3.2.0",
-  "built_at": "2026-06-22T00:58:47"
+  "built_at": "2026-06-22T14:54:23"
 }
