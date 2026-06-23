@@ -1,10 +1,10 @@
 {
-  "version": "3.5.3",
-  "notes": "Launcher webview: boot tunggu backend siap, tray + minimize-to-tray, QR fallback SVG, fix Start/Stop & link publik",
+  "version": "3.5.4",
+  "notes": "Percepatan PC tanpa GPU (reasoning off + token budget), migrasi config otomatis, loading 100% representatif, hapus skip intro, tombol Optimasi, Cek Update aktif",
   "type": "code",
   "url": "putri_update.zip",
-  "sha256": "7586a5433731a5002d3cb2c334937eb326765b6beef48cabdb4f85e60abe5611",
-  "sig": "772284b5d685c81ff3daacd8f659a910ebd56e206e6c51b312878187506611fb",
+  "sha256": "ca88eee916fd347bbec876faebae3faaf6e515ac820f51af1950ec74fdfb03f4",
+  "sig": "b5ba20fbcfcb6442e8b9e36f40ba33e8e08b0e7dadb889187388d4ded42449ad",
   "min_version": "3.2.0",
-  "built_at": "2026-06-23T07:05:12"
+  "built_at": "2026-06-23T10:15:43"
 }
