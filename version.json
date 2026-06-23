@@ -1,10 +1,10 @@
 {
-  "version": "3.3.4",
-  "notes": "Governor ADAPTIF: auto mode-hemat (model ringan+jawaban pendek) HANYA saat terdeteksi lambat/timeout; PC kuat model besar tak terpengaruh; config induk balik kualitas penuh",
+  "version": "3.5.3",
+  "notes": "Launcher webview: boot tunggu backend siap, tray + minimize-to-tray, QR fallback SVG, fix Start/Stop & link publik",
   "type": "code",
   "url": "putri_update.zip",
-  "sha256": "f16453af5c8645027cc28921468ba6f7db7f9db22d9faf00f924d7004db74868",
-  "sig": "0d59fc129c95dc7609d019a9770a1523688e431a0adcb2e8a64ec9b8e8f03702",
+  "sha256": "7586a5433731a5002d3cb2c334937eb326765b6beef48cabdb4f85e60abe5611",
+  "sig": "772284b5d685c81ff3daacd8f659a910ebd56e206e6c51b312878187506611fb",
   "min_version": "3.2.0",
-  "built_at": "2026-06-22T14:54:23"
+  "built_at": "2026-06-23T07:05:12"
 }
