@@ -1,10 +1,10 @@
 {
   "version": "3.6.0",
-  "notes": "Anti start/stop berkedip (debounce status 3x), keepalive WS + batas waktu (jawaban selalu muncul), web search di thread + filter kredibel, web ON semua tier, sitasi klik, kapabilitas adaptif.",
+  "notes": "Cek Update jelas (timeout 12s, selalu tampilkan hasil/error), debounce status anti-kedip, keepalive WS, web search di thread+filter kredibel, web ON semua tier, sitasi klik, kapabilitas adaptif.",
   "type": "code",
   "url": "putri_update.zip",
-  "sha256": "5a1d91c272161a6f994dcb1cb60c357951efb9a7cce017211c2d8f34b3669b92",
-  "sig": "8c2b18ccf3f7e2d898440f6302481fb928b6bf345e47de4413460498015390f0",
+  "sha256": "3bd8ce4680fefa77eb7f55ad816a6a247042d374a09987806413cd64a0a9ab3b",
+  "sig": "819ed6fc6173180ad65a67b2411e4a1ab27f49429908aead3a3fa3b3f2c31f9b",
   "min_version": "3.2.0",
-  "built_at": "2026-06-24T06:20:16"
+  "built_at": "2026-06-24T06:54:49"
 }
