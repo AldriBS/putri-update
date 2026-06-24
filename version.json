@@ -1,10 +1,10 @@
 {
-  "version": "3.6.0",
-  "notes": "Cek Update jelas (timeout 12s, selalu tampilkan hasil/error), debounce status anti-kedip, keepalive WS, web search di thread+filter kredibel, web ON semua tier, sitasi klik, kapabilitas adaptif.",
+  "version": "3.6.1",
+  "notes": "Routing buku manual presisi per ASET (NL01..NL12, SL, Okuma) & TIPE (NL2500/NL3000->Meldas, NLX3000->CELOS); PUTRI bisa jawab 'mesin X pakai manual apa'; buang prompt bocor + sanitizer; sitasi diperbaiki.",
   "type": "code",
   "url": "putri_update.zip",
-  "sha256": "3bd8ce4680fefa77eb7f55ad816a6a247042d374a09987806413cd64a0a9ab3b",
-  "sig": "819ed6fc6173180ad65a67b2411e4a1ab27f49429908aead3a3fa3b3f2c31f9b",
+  "sha256": "38bc00dd55b8d56221a6366a2a72d8cbfc2f2b3c1528d944761b1f903c56c8ae",
+  "sig": "4ac7529d1fb1694560e2dc9ab11bfb413acea21072bacb3146d4fd2a453a4251",
   "min_version": "3.2.0",
-  "built_at": "2026-06-24T06:54:49"
+  "built_at": "2026-06-24T09:55:47"
 }
